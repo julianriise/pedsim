@@ -1,4 +1,4 @@
-# Testing plans with PedSim
+# PedSim plan tester
 Populate any plan with people using PedSim plugin for Grasshopper, Rhino.
 
 ![PedSim-Github](https://user-images.githubusercontent.com/77626314/163283171-8bbd71bf-8289-49b2-b583-0f8b57d671fa.gif)
